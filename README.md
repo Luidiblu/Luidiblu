@@ -51,7 +51,7 @@
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-
+| <a href="https://github.com/Dur4ndal"><img width="24" src="https://avatars.githubusercontent.com/u/56807764?s=24&u=239c08385f48a84973f33f77be24aeadb58b1a50&v=4" alt="Dur4ndal" /> Dur4ndal</a> |9/11/2022, 3:27:42 AM|Hey hey, pretty !|
 <!-- /Guestbook -->
 
 <!-- Footer -->
