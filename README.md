@@ -44,10 +44,6 @@
 </tr>
 </table>
 
-<div align="center">
-<a href="https://github.com/Luidiblu/luidiblu/issues/1#issuecomment-new"><img src="images/guestbook.svg"></a> 
-</div>
-
 <!-- Footer -->
 
 <div align="center">
