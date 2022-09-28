@@ -1,5 +1,12 @@
+<h1>43 REGRAS PARA A VIDA:</h1>
+
+<hr>
+
 <div align="center">
-    <video width="1146" height="645" controls>
-        <source src="images/regras.mp4" type="video/mp4">
-    </video>
+
+https://user-images.githubusercontent.com/40251675/192856280-0fe8af61-3967-41ca-8695-cbc31326b205.mp4
+
 </div>
+
+
+
