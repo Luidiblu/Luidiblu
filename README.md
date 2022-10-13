@@ -1,8 +1,3 @@
-<h1 align="center">43 REGRAS PARA A VIDA</h1>
-
-<br>
-<br>
-
 <div align="center">
 
 
