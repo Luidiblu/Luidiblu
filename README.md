@@ -13,12 +13,12 @@ luidiblu@github:~$ ./welcome.sh
                 ||     ||
 ```
 
-<img align="left" src="https://github.com/Luidiblu/Luidiblu/blob/main/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
+<img align="left" src="https://github.com/Luidiblu/Luidiblu/blob/master/cropped.jpg" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" /> 
 
 ```
 luidiblu@github
 -------------------------
-🏫 MsC Computer engineering student @Unibo
+🏫 Data Science and Web Dev Teacher @LeWagon
 🔎 Main interests in AI & Cybersec
 🔭 Working on Deep Learning based cybersecurity solutions
 🌱 Learning about Computer Vision and Machine Learning stuff
@@ -30,7 +30,7 @@ luidiblu@github
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#9395aa" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/main/img/9395aa.png" width="25" height="20" /><img alt="#6b250b" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/main/img/6b250b.png" width="25" height="20" /><img alt="#bdccf3" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/main/img/bdccf3.png" width="25" height="20" /><img alt="#b41b3b" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/main/img/b41b3b.png" width="25" height="20" /><img alt="#f7f5dd" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/main/img/f7f5dd.png" width="25" height="20" />
+<img alt="#9395aa" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/9395aa.png" width="25" height="20" /><img alt="#6b250b" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/6b250b.png" width="25" height="20" /><img alt="#bdccf3" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/bdccf3.png" width="25" height="20" /><img alt="#b41b3b" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/b41b3b.png" width="25" height="20" /><img alt="#f7f5dd" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/f7f5dd.png" width="25" height="20" />
 </p>
 
 ```console
