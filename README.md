@@ -30,7 +30,7 @@ luidiblu@github
 
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<img alt="#9395aa" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/9395aa.png" width="25" height="20" /><img alt="#6b250b" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/6b250b.png" width="25" height="20" /><img alt="#bdccf3" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/bdccf3.png" width="25" height="20" /><img alt="#b41b3b" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/b41b3b.png" width="25" height="20" /><img alt="#f7f5dd" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/f7f5dd.png" width="25" height="20" />
+<img alt="#e0bf00" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/e0bf00.png" width="25" height="20" /><img alt="#5b3000" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/5b3000.png" width="25" height="20" /><img alt="#181e03" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/181e03.png" width="25" height="20" /><img alt="#a63e00" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/a63e00.png" width="25" height="20" /><img alt="#1b7800" src="https://raw.githubusercontent.com/Luidiblu/Luidiblu/master/img/1b7800.png" width="25" height="20" />
 </p>
 
 ```console
