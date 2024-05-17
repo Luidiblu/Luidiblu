@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
   <img src="giphy.gif" alt="Descrição do GIF">
 </div>
 
