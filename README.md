@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="giphy.gif" alt="Descrição do GIF">
-</div>
-
 ```py
  _________________________________________
 / Nós poderíamos ser muito melhores se    \
