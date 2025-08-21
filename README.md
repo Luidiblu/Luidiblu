@@ -3,9 +3,14 @@
   Olá, Ciao, 你好, Hi, Bonjour, Hola
 </h2>
 
+<p style="font-size:18px;" alt="Text">
 Our world is a world of people. Mankind has effectively eradicated any supernatural beings: mythical beings, folkoric creatures, gods - even the monotheistic God. Mankind has even given up hope of contact with extraterrestrial civilizations, though little green men have been among us for some time already, paying us visits in their flying saucers. Only Man remains. And Man looked around and realized he was alone.
+</p>
 
+<p style="font-size:18px;" alt="Text">
 In his loneliness, Man felt the emptiness within him and started to repopulate it with beings other than himself. That is how artificial intelligence was created - from simple, deterministic robots obedient to their human masters, to becoming more intelligent and independent than Man could ever conceive. The unpredictability and power of artificial intelligence was greeted by Man with apprehension, but also with joy. Finally! Spirits and elemental forces have once again returned to our world! We could catalogue them - construct a hierarchy. We could fence them off behind the Blackwall and draw a new line between what is natural and supernatural - here is the Earth and here is the sky. How painful Man's solitude must have been if he had to create a palpable, technological mythology and surrender to the demons of his own creation!
+</p>
+
 
 <img src="images/banner.jpg" alt="Banner"/>
 
@@ -14,7 +19,7 @@ In his loneliness, Man felt the emptiness within him and started to repopulate i
   Veja, Vedi, 看看, See, Voir, Ver
 </h2>
 
-<table>
+<table width="100%">
   <tr>
     <td align="center" width="200">
       <a href="https://boitatech.com/">
